@@ -5,8 +5,6 @@ ScriptsOnlyBuild:
     - ObstacleScript
     - PlayerController
     - Rotator
-    UnityEditor.TestRunner.dll:
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -735,4 +733,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Unity/UFO Game/Builds/UFO Challenge Game Build/UFO Game.exe
+  playerPath: D:/Unity/UFO Game/Builds/UFO Game.exe
